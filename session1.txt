@@ -1,0 +1,18 @@
+
+# Introduction (name/grade/school/hobby)
+    * Everybody shared their details with others
+# Computer fundamentals
+* We asked some questions about what it means by a Computer
+    * What is a Computer?
+    * How does it understand your commands?
+    * How do you compare with human being
+Everybody gave some interesting answers.
+
+* Some of the things we discussed
+    * Computer = Hardware + Software
+        * Hardware
+            * Things you can touch/feel (some you can see outside and some are inside which needs to open the case)
+            * Some examples Mouse, keyboard( can be seen) , CPU,Motherboard,Hard disk(need to open the cover)
+            * [Visited this link to see more of these](http://www.informationq.com/about-the-basic-parts-of-a-computer-with-devices/)
+
+
