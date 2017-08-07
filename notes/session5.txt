@@ -1,5 +1,5 @@
-this is where you will write your session1.txt notes
-You need to read session1 notes from the class
+this is where you will write your session5.txt notes
+You need to read session5 notes from the class
 Class notes should be more than 200 characters.
 They should be under notes directory in github.
 
