@@ -2,4 +2,4 @@ this is where you will write your session4.txt notes
 You need to read session4 notes from the class
 Class notes should be more than 200 characters.
 They should be under notes directory in github.
-
+This is only for demonostration notes.
